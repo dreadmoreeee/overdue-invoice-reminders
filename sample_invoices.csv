@@ -1,0 +1,8 @@
+invoice,client,email,amount,currency,due_date,status
+INV-1001,Harbourview Café,owner@harbourview.example,450.00,CAD,2026-08-15,sent
+INV-1002,North Shore Plumbing,billing@northshore.example,"1,280.50",CAD,2026-09-10,sent
+INV-1003,Studio Luma,hello@luma.example,90.00,CAD,2026-09-25,sent
+INV-1004,Pine Street Salon,salon@pine.example,300.00,CAD,2026-09-01,paid
+INV-1005,Bay Auto Repair,,220.00,CAD,2026-09-05,sent
+INV-1006,Harbour Books,books@harbour.example,75.25,CAD,2026-10-20,sent
+INV-1007,Miramichi Fitness,info@fitness.example,not-a-number,CAD,2026-09-01,sent
