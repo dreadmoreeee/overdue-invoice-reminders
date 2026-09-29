@@ -29,7 +29,7 @@ The sample CSV has 7 invoices: 3 overdue, 1 paid, 1 not yet due, 1 without an em
 ```bash
 python reminders.py invoices.csv                      # dry run
 python reminders.py invoices.csv --min-days 14        # only 14+ days overdue
-set SMTP_HOST=... & set SMTP_USER=... & set SMTP_PASSWORD=... & set REMINDER_FROM=billing@yourbusiness.com
+set SMTP_HOST=... & set SMTP_USER=... & set SMTP_PASSWORD=... & set REMINDER_FROM=billing@example.com
 python reminders.py invoices.csv --send
 ```
 
